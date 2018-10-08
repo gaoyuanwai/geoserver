@@ -5,3 +5,5 @@
  oc volume dc/geoserver --add --claim-size 1Gi --mount-path /geoserver/data --name geo-data
  
  oc rsync e:\data  geoserver-xxxxxx:/geoserver/data
+ 
+ 20181008
