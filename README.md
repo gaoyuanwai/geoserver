@@ -6,4 +6,3 @@
  
  oc rsync e:\data  geoserver-xxxxxx:/geoserver/data
  
- 20181008
